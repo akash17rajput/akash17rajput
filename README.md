@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akash17rajput
 - 👀 I’m a working as a Flutter Developer at XportSoft Technologies Private Limited
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js & Flutter Flow
 - 💞️ Currently Available for Freelance Projects.
 - 📫 How to reach me email= rajput78yash@gmail.com
 
